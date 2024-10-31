@@ -1,0 +1,24 @@
+{
+  "name": "hulkplugins/rich-text-editor-tinymce-for-woocommerce",
+  "autoload": {
+    "psr-4": {
+      "HulkPlugins\\woo\\tmcecd\\": [
+        "includes"
+      ]
+    }
+  },
+  "config": {
+    "autoloader-suffix": "hulk_woo_tmcecd",
+    "optimize-autoloader": true,
+    "classmap-authoritative": true,
+    "preferred-install": "dist",
+    "platform": {
+      "php": "7.4"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "ext-json": "*"
+  }
+}

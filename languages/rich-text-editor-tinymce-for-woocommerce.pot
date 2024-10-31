@@ -1,0 +1,48 @@
+# Copyright (C) 2024 Hulk Plugins
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Description: Rich Text Editor (Powered by TinyMCE) for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rich-text-editor-tinymce-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-11T14:18:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: rich-text-editor-tinymce-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: rich-text-editor-tinymce-for-woocommerce.php
+msgid "Category Description: Rich Text Editor (Powered by TinyMCE) for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: rich-text-editor-tinymce-for-woocommerce.php
+msgid "https://hulkplugins.com/rich-text-editor-tinymce-for-woocommerce"
+msgstr ""
+
+#. Description of the plugin
+#: rich-text-editor-tinymce-for-woocommerce.php
+msgid "This plugin enables the TinyMCE (WYSIWYG) editor for WooCommerce product categories and tags \"description\". This lets you easily add text formats like H1, and H2 titles, bullet points, images, and bold text. This would be great for SEO purposes."
+msgstr ""
+
+#. Author of the plugin
+#: rich-text-editor-tinymce-for-woocommerce.php
+msgid "Hulk Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+#: rich-text-editor-tinymce-for-woocommerce.php
+msgid "https://hulkplugins.com"
+msgstr ""
+
+#: includes/Base.php:26
+msgid "Docs"
+msgstr ""
+
+#: includes/Base.php:32
+msgid "Help &amp; Support"
+msgstr ""

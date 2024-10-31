@@ -1,0 +1,29 @@
+.wp-editor-wrap {
+
+	.wp-editor-container {
+
+		textarea {
+			width: 100%;
+			margin: 0;
+			box-shadow: none;
+			border: none;
+		}
+	}
+}
+
+body.mce-fullscreen {
+	#wpadminbar,
+	#adminmenuback,
+	#adminmenuwrap {
+		z-index: -1;
+	}
+
+	#woocommerce-embedded-root {
+		display: none !important;
+	}
+
+	form#posts-filter {
+		position: relative;
+		z-index: -1;
+	}
+}
